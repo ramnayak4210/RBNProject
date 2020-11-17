@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120398" started-at="2020-11-17T06:33:22Z" finished-at="2020-11-17T06:35:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120398" started-at="2020-11-17T06:33:22Z" finished-at="2020-11-17T06:35:22Z">
+      <class name="com.rbnp.TestScripts.CreateOrganizationTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="configBS" is-config="true" duration-ms="26" started-at="2020-11-17T06:33:22Z" finished-at="2020-11-17T06:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="configBC" is-config="true" duration-ms="36021" started-at="2020-11-17T06:33:22Z" finished-at="2020-11-17T06:33:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="configBM" is-config="true" duration-ms="16163" started-at="2020-11-17T06:33:58Z" finished-at="2020-11-17T06:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrganozation()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="createOrganozation" duration-ms="59887" started-at="2020-11-17T06:34:14Z" finished-at="2020-11-17T06:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganozation -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="configAM" is-config="true" duration-ms="7172" started-at="2020-11-17T06:35:14Z" finished-at="2020-11-17T06:35:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="configAC" is-config="true" duration-ms="1111" started-at="2020-11-17T06:35:21Z" finished-at="2020-11-17T06:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.rbnp.TestScripts.CreateOrganizationTest@5c3bd550]" name="configAS" is-config="true" duration-ms="0" started-at="2020-11-17T06:35:23Z" finished-at="2020-11-17T06:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.rbnp.TestScripts.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
