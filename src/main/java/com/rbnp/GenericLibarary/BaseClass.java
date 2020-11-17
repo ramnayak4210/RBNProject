@@ -37,10 +37,10 @@ public class BaseClass {
 		{
 			System.setProperty("webdriver.chrome.driver", "./src/main/resources/chromedriver.exe");
 			driver = new ChromeDriver();
-		}else if(browser.equals("firefox")){
+		}/*else if(browser.equals("firefox")){
 			System.setProperty("webdriver.gecko.driver", "./src/main/resources/geckpdriver.exe");
 			driver = new FirefoxDriver();
-		}
+		}*/
 		
 		driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 		driver.get(data.getDataFromProperty("url"));
